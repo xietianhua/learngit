@@ -4,5 +4,7 @@ Git is distributed  version system.
 Git has amutable index called stage.
 Git tracks changes of files.
 
+Git stupid boss still prefers SVN.
+
 
 
